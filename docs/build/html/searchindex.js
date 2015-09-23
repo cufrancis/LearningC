@@ -1,0 +1,1 @@
+Search.setIndex({envversion:43,objnames:{},objtypes:{},titles:["Welcome to LearningC&#8217;s documentation!","Documentation"],titleterms:{document:[0,1],welcom:0,learningc:0,tabl:0,indic:0},terms:{content:0,modul:0,search:0,index:0,test:1,page:0,section:1},objects:{},filenames:["index","Documentation"]})
